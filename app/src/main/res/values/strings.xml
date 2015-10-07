@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CriminalIntent</string>
+    <string name="title_activity_crime">CrimeActivity</string>
+	<string name="crime_title_hint">Enter a title for the crime.</string>
+	<string name="crime_title_label">Title</string>
+	<string name="crime_details_label">Details</string>
+	<string name="crime_solved_label">Solved?</string>
+	<string name="crimes_title">Crimes</string>
+	<string name="date_picker_title">Date of crime:</string>
+	<string name="new_crime">New Crime</string>
+	<string name="show_subtitle">Show Subtitle</string>
+	<string name="hide_subtitle">Hide Subtitle</string>
+	<string name="subtitle">If you see something, say something.</string>
+	<string name="delete_crime">Delete</string>
+	<string name="empty_list">To get started, create a New Crime.</string>
+	<string name="take">Take!</string>
+	<string name="time_picker_title">Time of crime:</string>
+
+	<!-- Description of the date time -->
+	<string name="change_date_time">Change Date Time</string>
+
+	<!-- Description of the choose date time -->
+	<string name="choose_date_time">Choose date time:</string>
+
+	<!-- Description date -->
+	<string name="date">Date</string>
+
+	<!-- Description time -->
+	<string name="time">Time</string>
+
+	<!-- Description separator -->
+	<string name="separator">---- Or ----</string>
+
+	<!-- Description new crime -->
+
+	!-- Description no results -->
+	<string name="no_results">There are not crimes.</string>
+
+	<!-- Description add a new crime -->
+	<string name="add_crime">Add crime</string>
+
+	<!-- Description choose a suspect text -->
+	<string name="crime_suspect_text">Choose Suspect</string>
+
+	<!-- Description crime report call -->
+	<string name="crime_suspect_call">Call Suspect</string>
+
+	<!-- Description crime report text -->
+	<string name="crime_report_text">Send Crime Report</string>
+
+	<!-- Description crime report -->
+  	<string name="crime_report">%1$s!
+    	The crime was discovered on %2$s. %3$s, and %4$s
+  	</string>
+
+	<!-- Description crime report solved -->
+	<string name="crime_report_solved">The case is solved</string>
+
+	<!-- Description crime report unsolved -->
+	<string name="crime_report_unsolved">The case is not solved</string>
+
+	<!-- Description crime report no suspects -->
+	<string name="crime_report_no_suspect">There is no suspect.</string>
+
+	<!-- Description crime report suspect -->
+	<string name="crime_report_suspect">The suspect is %s.</string>
+
+	<!-- Description crime report subject-->
+	<string name="crime_report_subject">CriminalIntent Crime Report</string>
+
+	<!-- Description send crime report -->
+	<string name="send_report">Send crime report via</string>
+</resources>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Android/workspace/AndroidHIVE/CriminalIntent/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/D:/Android/workspace/AndroidHIVE/CriminalIntent/app/src/main/res/values/ids.xml -->
+    <eat-comment/>
+    <item name="viewPager" type="id"/>
+    <!-- From: file:/D:/Android/workspace/AndroidHIVE/CriminalIntent/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="add_crime">Add crime</string>
+    <string name="app_name">CriminalIntent</string>
+    <string name="change_date_time">Change Date Time</string>
+    <string name="choose_date_time">Choose date time:</string>
+    <string name="crime_details_label">Details</string>
+    <string name="crime_report">%1$s!
+    	The crime was discovered on %2$s. %3$s, and %4$s
+  	</string>
+    <string name="crime_report_no_suspect">There is no suspect.</string>
+    <string name="crime_report_solved">The case is solved</string>
+    <string name="crime_report_subject">CriminalIntent Crime Report</string>
+    <string name="crime_report_suspect">The suspect is %s.</string>
+    <string name="crime_report_text">Send Crime Report</string>
+    <string name="crime_report_unsolved">The case is not solved</string>
+    <string name="crime_solved_label">Solved?</string>
+    <string name="crime_suspect_call">Call Suspect</string>
+    <string name="crime_suspect_text">Choose Suspect</string>
+    <string name="crime_title_hint">Enter a title for the crime.</string>
+    <string name="crime_title_label">Title</string>
+    <string name="crimes_title">Crimes</string>
+    <string name="date">Date</string>
+    <string name="date_picker_title">Date of crime:</string>
+    <string name="delete_crime">Delete</string>
+    <string name="empty_list">To get started, create a New Crime.</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="new_crime">New Crime</string>
+    <string name="no_results">There are not crimes.</string>
+    <string name="send_report">Send crime report via</string>
+    <string name="separator">---- Or ----</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="subtitle">If you see something, say something.</string>
+    <string name="take">Take!</string>
+    <string name="time">Time</string>
+    <string name="time_picker_title">Time of crime:</string>
+    <string name="title_activity_crime">CrimeActivity</string>
+    <!-- From: file:/D:/Android/workspace/AndroidHIVE/CriminalIntent/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
